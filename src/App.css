@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.k-tabstrip-content {
+  background-color: black !important;
+  color: white !important;
+}
+
+.k-tabstrip-items .k-item {
+  font-size: 30px;
+  font-weight: bold !important;
+  color: Black !important; 
+}
+
+/* Make all PanelBar item headers black */
+.aboutApp .k-link {
+  background-color: black !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+/* Make all expanded content areas black */
+.aboutApp .k-panelbar-content {
+  background-color: black !important;
+  color: khaki !important;
+}
+
+
