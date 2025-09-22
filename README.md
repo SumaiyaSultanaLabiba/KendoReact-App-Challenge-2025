@@ -71,7 +71,7 @@ Your browser will launch the app on localhost. Enjoy the experience!
 
 📂 Demo Instructions:
 
-Demo link
+Demo link: https://kendoreact-app-challenge-2025-deploy-1.onrender.com
 
 GitHub repo: https://github.com/SumaiyaSultanaLabiba/KendoReact-App-Challenge-2025/tree/master
 
